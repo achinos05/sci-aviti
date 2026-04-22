@@ -5,7 +5,7 @@ Element Biosciences' NGS platform (AVITI) offers a lower price per read compared
 
 ## Step 1: `bcl2fastq` conversion 
 
-AVITI output folder structure and file types are different than those of Illumina. Element Biosciences provide their own `Bases2Fastq` software. Instructions for download and installation can be found here: [https://docs.elembio.io/docs/bases2fastq/](https://docs.elembio.io/docs/bases2fastq/). 
+AVITI output folder structure and file types are different than those of Illumina. Element Biosciences provide their own `Bases2Fastq` software. Instructions for download and installation can be found here: [https://docs.elembio.io/docs/bases2fastq/setup/#install-current](https://docs.elembio.io/docs/bases2fastq/setup/#install-current). 
 
 Before converting to FASTQ:
 
